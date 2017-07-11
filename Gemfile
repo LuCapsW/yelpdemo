@@ -44,4 +44,7 @@ group :development, :test do
 end
 gem 'rails_12factor', group: :production
 gem 'pg', group: :production
+gem 'carrierwave'
+gem 'fog-aws'
+gem 'figaro'
 
