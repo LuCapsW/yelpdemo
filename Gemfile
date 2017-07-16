@@ -47,4 +47,5 @@ gem 'pg', group: :production
 gem 'carrierwave'
 gem 'fog-aws'
 gem 'figaro'
+gem "mini_magick"
 
